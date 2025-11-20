@@ -77,7 +77,7 @@ assign g = ~(a | b);
 assign h = ~(a ^ b);
 endmodule
 ```
- Developed by:Dharshan Babu A RegisterNumber:25008132 
+ Developed by:Dharshan Babu A              RegisterNumber:25008132 
  
 **Logic symbol & Truthtable**
  
